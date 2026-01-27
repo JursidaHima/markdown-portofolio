@@ -13,9 +13,9 @@ This is **bold** and this is *italics*.This is ***bold and italics***.
 2.Faculty of Natural science - Bachelor of Engineering in Mathematics and Informatics.
 ## Project
 -[Live Code]()
--![Live Code Screenshot](./images/Jursida%20Hima.jpg)
-- [GitHub Contributions](https://github.com/JursidaHima)
-![GitHub Profile](./images/Jursida%20Hima.jpg)
+<!--![Live Code Screenshot](./images/Jursida%20Hima.jpg)-->
+<!-- [GitHub Contributions](https://github.com/JursidaHima)-->
+
 <img src="./images/Jursida Hima.jpg" width="100">
 
 
@@ -27,10 +27,11 @@ You can have multi line code snippets:
 let test="Hello";
 alert(test);
 '''
-<!--Tables--!>
+<!--ida-->
+
  | Language | Type       |
  |PHP       | Server Side|
- Python     | Server Side |
+ |Python     | Server Side |
  |JavaScript| Client Side |
 
 >Blockquote 
