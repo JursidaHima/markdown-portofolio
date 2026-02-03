@@ -6,8 +6,7 @@ You can find me and my work online through the platforms below:
 -  **GitHub:**  
   https://github.com/JursidaHima
 
--  **Portfolio Website / GitHub Pages:**  
-  https://JursidaHima.github.io
+
 
 
 

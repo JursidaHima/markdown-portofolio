@@ -28,29 +28,9 @@ I thrive in roles where I can **analyze data, optimize workflows, and support de
 - Time Management & Organization  
 
 ---
-
-##  Technical Skills
-
-### Programming & Web
-- **HTML5, CSS3, JavaScript (ES6)**
-- Java, C++
-- Oracle SQL
-
-### Data & Analytics
-- R (Statistical Computing)
-- SPSS
-- Matlab
-- Data Cleaning & Validation
-- Report Generation & Insights
-
-### Tools & Platforms
-- Microsoft Office (Advanced)
-- CRM Software
-- SAP & Citrix
-- Visual Studio
-
-
----
+### My Links
+- [Projects](projects.md)
+- [Contacts](./contacts.md)
 
 ##  Employment
 
@@ -145,8 +125,6 @@ Financial statements, taxation, and business accounting fundamentals
 ---
 
 ## Get in Touch
-
-I’m open to opportunities in **data analysis, operations, and junior web development roles**.
 
 Email: [jursida.hima@gmail.com](mailto:jursida.hima@gmail.com)  
 Phone: +1(942) 380 2103 
