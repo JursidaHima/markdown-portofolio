@@ -1,10 +1,14 @@
-# Jursida Hima
+# My Markdown Portofolio 
+## Welcome
+Welcome to my online Markdown portofolio!
 
-**Operations Associate | Data Analyst | Web Development Graduate**
+<img src="./images/Jursida Hima.jpg" width="100">
+
+**Data Integrity-Operations Associate | Data Analyst | Web Development Graduate**
 
 
 
-##  Professional Summary
+##  About me 
 
 I am a Mathematics and Informatics Engineering graduate with several years of experience across **operations, data analysis, CRM management, and customer-focused environments**. My background combines strong analytical thinking with hands-on technical skills in web development and data systems.
 
@@ -12,7 +16,7 @@ I thrive in roles where I can **analyze data, optimize workflows, and support de
 
 ---
 
-## 🧭 Core Competencies
+##  Core Competencies
 
 - Data Analysis & Visualization  
 - Operations & Process Optimization  
@@ -25,7 +29,7 @@ I thrive in roles where I can **analyze data, optimize workflows, and support de
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ### Programming & Web
 - **HTML5, CSS3, JavaScript (ES6)**
@@ -45,20 +49,13 @@ I thrive in roles where I can **analyze data, optimize workflows, and support de
 - SAP & Citrix
 - Visual Studio
 
----
-
-## 🌍 Languages
-
-- **Albanian:** Native  
-- **English:** Upper-Intermediate (B2)  
-- **French:** Basic (A2)  
 
 ---
 
-## 💼 Professional Experience
+##  Employment
 
-### **Operations Associate**  
-**Engage3 / Dexi.io** | *April 2024 – Present*
+### **Data Integrity -Operations Associate**  
+**Engage3 / Dexi.io** | *April 2024 – November 2025*
 
 In this role, I support daily business operations and contribute to performance tracking and system improvements.
 
@@ -73,7 +70,7 @@ In this role, I support daily business operations and contribute to performance 
 ---
 
 ### **Data Analyst & Data Entry**  
-**SF CALB** | *December 2022 – May 2024*
+**SFC ALB** | *December 2022 – May 2024*
 
 This role strengthened my analytical mindset and hands-on experience with data systems.
 
@@ -114,25 +111,23 @@ This experience built my foundation in **risk management, CRM systems, and clien
 
 ---
 
-## 🎓 Education
+##  Education
 
-### **Master’s Degree – Mathematics & Informatics Engineering**  
-**University of Tirana** | *2017 – 2019*
-
-### **Bachelor’s Degree – Mathematics & Informatics Engineering**  
-**University of Tirana** | *2013 – 2017*
-
-### **Web Development Bootcamp**  
-**Udemy** | *2022*  
-HTML5, CSS3, JavaScript (ES6)
-
-### **Practical Accounting Course**  
+1. ### **Practical Accounting Course**  
 **AKH Consulting** | *2022*  
 Financial statements, taxation, and business accounting fundamentals
 
+2. ### **Master’s Degree – Mathematics & Informatics Engineering**  
+**University of Tirana** | *2017 – 2019*
+
+3. ### **Bachelor’s Degree – Mathematics & Informatics Engineering**  
+**University of Tirana** | *2013 – 2017*
+
+
+
 ---
 
-## 📜 Certifications & Volunteering
+##  Certifications & Volunteering
 
 - **American Dream Program** – Professional Academy ELITA  
 - **Volunteer**, Albanian Skills Week (2018)  
@@ -141,21 +136,21 @@ Financial statements, taxation, and business accounting fundamentals
 
 ---
 
-## 🌱 Personal Interests
+##  Personal Interests
 
-- Mountaineering & hiking  
-- Running and volleyball  
+- Hiking 
+- Walking and gym  
 - Creative writing and poetry  
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 I’m open to opportunities in **data analysis, operations, and junior web development roles**.
 
-📧 Email: [jursida.hima@gmail.com](mailto:jursida.hima@gmail.com)  
-📞 Phone: +355 69 355 1211  
+Email: [jursida.hima@gmail.com](mailto:jursida.hima@gmail.com)  
+Phone: +1(942) 380 2103 
 
 ---
 
-*© 2026 Jursida Hima — Portfolio*
+* © 2026 Jursida Hima — Portfolio *
