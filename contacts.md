@@ -2,14 +2,11 @@
 [← Back to Home](index.md)
 You can find me and my work online through the platforms below:
 
-- **LinkedIn:**  
-  https://www.linkedin.com/in/jursida-hima-0a38a23a5
+- [**LinkedIn:** ] 
+ ( https://www.linkedin.com/in/jursida-hima-0a38a23a5)
 
--  **GitHub:**  
-  https://github.com/JursidaHima
-
-
-
+- [ **GitHub:** ]
+ (https://github.com/JursidaHima)
 
 
 
