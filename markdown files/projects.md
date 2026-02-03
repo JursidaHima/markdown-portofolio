@@ -38,7 +38,7 @@ Created a responsive personal portfolio website to showcase professional experie
 
 ---
 
-### ⚙ Operations Reporting Automation
+### Operations Reporting Automation
 **Tools:** Excel, SQL, CRM Tools  
 **Description:**  
 Supported operations teams by improving reporting processes and streamlining recurring tasks through structured data workflows.

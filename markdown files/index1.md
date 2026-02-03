@@ -2,7 +2,7 @@
 ## Welcome
 Welcome to my online Markdown portofolio!
 
-<img src="./images/Jursida Hima.jpg" width="100">
+<img src="../images/Jursida Hima.jpg" width="100">
 
 **Data Integrity-Operations Associate | Data Analyst | Web Development Graduate**
 
