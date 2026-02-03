@@ -12,7 +12,7 @@ This is **bold** and this is *italics*.This is ***bold and italics***.
 1. Faculty of Natural science - Profesonal Master of Engineering in Mathematics and Informatics.
 2.Faculty of Natural science - Bachelor of Engineering in Mathematics and Informatics.
 ## Project
--[Live Code]()
+<!---[Live Code]()-->
 <!--![Live Code Screenshot](./images/Jursida%20Hima.jpg)-->
 <!-- [GitHub Contributions](https://github.com/JursidaHima)-->
 
