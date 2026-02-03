@@ -131,4 +131,4 @@ Phone: +1(942) 380 2103
 
 ---
 
-* © 2026 Jursida Hima — Portfolio *
+© 2026 Jursida Hima — Portfolio 
